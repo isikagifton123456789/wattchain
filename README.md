@@ -2274,3 +2274,4 @@ python main_app.py    # Launch the system!
 ---
 
 *Made with ❤️ for sustainable energy trading in Kenya and beyond.*# wattchain
+# wattchain
